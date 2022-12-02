@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.custom_carousel .carousel-inner img{
+    height: 600px;
+}
+
+.team .card .btn{
+    width:120px
+}
